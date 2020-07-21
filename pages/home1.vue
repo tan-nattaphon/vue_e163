@@ -15,6 +15,6 @@
 
 <script>
 export default {
-    layout:'default_new',
+    layout:'public',
 }
 </script>
